@@ -1,0 +1,11 @@
+{
+    "name": "Hedgetech Test",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/collection/entity": true
+    }
+}
